@@ -1,0 +1,136 @@
+intents:
+- bye
+- cancel
+- searchRestaurant
+- inform
+- locationUnknown
+- searchBestRestaurants
+- changeLocation
+- changeCuisine
+- show_more
+- chitchat
+- feedback
+- name_entity
+- email_entity
+- fback_entity
+- thankyou
+- goodbye
+
+entities:
+- user_location
+- location
+- cuisine
+- longitude
+- latitude
+- name
+- email
+- fback
+
+slots:
+  city_id:
+    type: unfeaturized
+  cuisine:
+    type: unfeaturized
+  latitude:
+    type: unfeaturized
+  location:
+    type: unfeaturized
+  location_id:
+    type: unfeaturized
+  location_type:
+    type: unfeaturized
+  longitude:
+    type: unfeaturized
+  more_restaurants:
+    type: unfeaturized
+  name:
+    type: unfeaturized
+  email:
+    type: unfeaturized
+  fback:
+    type: unfeaturized
+  requested_slot:
+    type: unfeaturized
+
+forms:
+  - feedback_form
+
+responses:
+  utter_greet_user:
+  - text: Hello Foodie! I am here to help you find restaurants. How may I  help you today? 😃
+  utter_ask_cuisine:
+  - text: What cuisine you would like to have?
+  - text: What cuisine do you feel like eating today?
+  - text: Which cuisine do you wish to eat today?
+  - text: Tell me the cuisine you wish to eat.
+  - text: In mood for which fancy cuisine?
+  utter_ask_location:
+  - text: In which location would you like me to search the restaurant?
+  - text: Tell me your location and I will show you all the restaurants.
+  - text: Please provide me with the location to find restaurants for you.
+  - text: Provide me with location to suggest the restaurants.
+  utter_assist_location:
+  - text: Can you please help me with your location?
+  utter_thanksforLocation:
+  - text: Thanks for providing the access to the location
+  utter_locationUnknown:
+  - text: No problem, I will search restaurants based on your current location, Please
+      allow me to access your location
+    custom:
+      payload: location
+  utter_location_denied:
+  - text: I am sorry I can't help you without location.
+  utter_location_change:
+  - text: Sure, I have changed your location to {location}
+  utter_location_change_best_restaurants:
+  - text: Showing best restaurants near {location}
+  utter_cuisine_change:
+  - text: Sure, I have changed your cuisine to {cuisine}.
+  utter_default_fallback:
+  - text: Sorry I am unable to process your response
+  - text: I apologize for the inconvenience. I am unable to process your response.
+  - text: Sorry, I think there has been some problem and I was unable to process your
+      request.
+  - text: I apologize for the inconvenience. I could not process your request.
+  utter_feedback:
+    - text: "Pls help us to improve by providing details"
+  utter_goodbye:
+  - text: "Thanks"
+  utter_ask_name:
+    - text: "Your name please" 
+  utter_ask_email:
+    - text: "Your email please"
+  utter_ask_fback:
+    - text: "Your feedback about restaurant please in the scale of 5"
+  utter_submit:
+    - text: "Thanks for the information"
+  utter_ask_feedback:
+    - text: "Thanks! Be foodie always :)"
+  utter_slots_values:
+    - text: "Your data is recorded with following details:\n
+          - name:{name}\n
+          - email:{email}\n
+          - feedback in the scale of 5 is: {fback}"
+actions:
+- respond_chitchat
+- utter_ask_cuisine
+- utter_ask_location
+- utter_locationUnknown
+- utter_thanksforLocation
+- utter_location_denied
+- utter_location_change
+- utter_location_change_best_restaurants
+- utter_cuisine_change
+- utter_assist_locations
+- utter_default_fallback
+- action_default_fallback
+- action_search_restaurants
+- action_ask_cuisine
+- action_search_restaurants_without_cuisine
+- action_search_best_restaurants
+- action_greet_user
+- action_show_more_results
+
+session_config:
+  session_expiration_time: 480  # value in minutes, 0 means infinitely long
+  carry_over_slots_to_new_session: true  # set to false to forget slots between sessions

@@ -1,0 +1,26 @@
+language: en
+pipeline:
+  - name: WhitespaceTokenizer
+  - name: RegexFeaturizer
+  - name: LexicalSyntacticFeaturizer
+  - name: CountVectorsFeaturizer
+  - name: CountVectorsFeaturizer
+    analyzer: "char_wb"
+    min_ngram: 1
+    max_ngram: 4
+  - name: "CRFEntityExtractor"
+  - name: DIETClassifier
+    epochs: 100
+    entity_recognition: False
+  - name: EntitySynonymMapper
+  - name: ResponseSelector
+    epochs: 100
+
+policies:
+- name: TEDPolicy
+  max_history: 10
+  epochs: 20
+- max_history: 6
+  name: AugmentedMemoizationPolicy
+- name: MappingPolicy
+- name: FormPolicy

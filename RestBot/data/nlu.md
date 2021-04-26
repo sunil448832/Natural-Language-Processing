@@ -1,0 +1,430 @@
+## intent:changeCuisine
+- change the cuisine to [indian](cuisine)
+- change the cuisine to [italian](cuisine)
+- change the cuisine to [american](cuisine)
+- change the cuisine to [Maharashtrian](cuisine)
+- change the cuisine to [south indian](cuisine)
+- change the cuisine to [North Eastern](cuisine)
+- can you change the cuisine to [punjabi](cuisine)
+- can you change the cuisine to [japanese](cuisine)
+- can you change the cuisine to [japanese](cuisine)
+- please change the cuisine to [thai](cuisine)
+- please change the cuisine to [European](cuisine)
+- please change the cuisine to [BBQ](cuisine)
+- please change the cuisine to [Desserts](cuisine)
+- please change the cuisine to [french](cuisine)
+- I changed my mind I would like to try out some [chinese](cuisine) food
+- I changed my mind I would like to try out some [North Eastern](cuisine) food
+- I changed my mind I would like to try out some [Hyderabadi](cuisine) food
+- I changed my mind I would like to try out some [Rajasthani](cuisine) food
+- I changed my mind I would like to try out [Mangalorean](cuisine) food
+- I changed my mind I would like to try out [Malaysian](cuisine) food
+- I changed my mind I would like to try out [Bengali](cuisine) food
+- I changed my mind I would like to try out [Modern Indian](cuisine) food
+- can you please change the cuisine to [italian](cuisine)
+- please change the cuisine to [italian](cuisine)
+
+## intent:changeLocation
+- please change my location to [pune](location)
+- please change my location to [hinjewadi](location)
+- please change my location to [viman nagar](location)
+- please change my location to [kalyani nagar](location)
+- please change my location to [shivaji park](location)
+- please change my location to [noida sector 16](location)
+- please change my location to [noida sector 18](location)
+- please change my location to [noida sector 17](location)
+- please change the location to [ulhasnagar](location)
+- please change the location to [badlapur](location)
+- please change my location to [vile parle](location)
+- please change my location to [amsterdam](location)
+- can you change the location to [chennai](location)
+- can you change the location to [south delhi](location)
+- can you change the location to [new delhi](location)
+- can you change the location to [chandigrah](location)
+- can you change the location to [dehradun](location)
+- can you change the location to [thrissur](location)
+- can you change the location to [kolkata](location)
+- can you please change the location to [wakad](location)
+- can you change the location to [wakad](location)
+
+## intent:inform
+- sorry I can't provide my location details
+- sorry I can't tell my location
+- sorry I won't proivde you my location
+- sorry I won't proivde you my location details
+- No I won't tell u my location
+- use my [current](user_location) location
+- near [thrissur](location)
+- near [azadpur](location)
+- near [ashok park](location)
+- near [bata chowk](location)
+- near [down town](location)
+- [chawri bazar](location)
+- [noida](location)
+- [GTB Nagar](location)
+- near [Kailash colony](location)
+- near [Jor bagh](location)
+- near [Karol bagh](location)
+- [Khan market](location)
+- [Kirti Nagar](location)
+- near [Lajpat Nagar](location)
+- [Model Town](location)
+- near [Moti Nagar](location)
+- near [Noida City Centre](location)
+- [Noida Sector 15](location)
+- it's [Noida Sector 16](location)
+- it's [Noida Sector 18](location)
+- it's [Okhla](location)
+- [Hinjewadi Phase 2](location)
+- [Hinjewadi Phase 3](location)
+- [Pimpri](location)
+- [karjat](location)
+- it's near [Dehu Road](location)
+- it's near[Shivaji Nagar](location)
+- I am at [Khadki](location)
+- I am at [lonavala](location)
+- I am at [curry road](location)
+- i am looking in [hyderabad](location)
+- [kochi](location)
+- [lucknow](location)
+- [chandigarh](location)
+- i am looking to eat in [mumbai](location)
+- my area is [mumbai](location)
+- my area is [kamshet](location)
+- my area is [karjat](location)
+- my area is [wadala](location)
+- my location is [siruseri](location)
+- my location is [manipur](location)
+- my location is [chandigarh](location)
+- i am living in [mumbai](location)
+- i am living in [pune](location)
+- i am living in [dadar](location)
+- [pune](location)
+- [kalyan](location)
+- [shivaji nagar](location)
+- [amsterdam](location)
+- [wakad](location)
+- [hinjewadi](location)
+- [dhange chowk](location)
+- [shivaji chowk](location)
+- [shivaji park](location)
+- [lower parel](location)
+- i would prefer to eat [mexican](cuisine)
+- i would love to eat [italian](cuisine)
+- i would like to have [chinese](cuisine) food
+- i would love to eat [mexican](cuisine) food
+- i would like to eat [chinese](cuisine)
+- please provide me [north indian](cuisine) food
+- please provide me [italian](cuisine) food
+- please give me [mexican](cuisine) food
+- please give me [italian](cuisine) food
+- please give me some [thai](cuisine) food
+- i will eat [north indian](cuisine) food
+- i would love to eat [south indian](cuisine) food
+- i will prefer [south indian](cuisine) food
+- i will prefer to have [north indian](cuisine)
+- i will eat [chinese](cuisine)
+- i would love to eat [arabian](cuisine) food
+- my choice will be [arabian](cuisine)
+- i would love to eat [mexican](cuisine)
+- i would like to have [italian](cuisine)
+- i would like to eat [italian](cuisine)
+- i would like to have [chinese](cuisine)
+- i will prefer [chinese](cuisine) food
+- i need [italian](cuisine) food
+- i would like to eat [italian](cuisine) food
+- i will prefer [italian](cuisine) food
+- i would love to eat [chinese](cuisine) food
+- i would love to eat [chinese](cuisine)
+- i would love to eat [north indian](cuisine) food
+- [vile parle](location)
+- [lal bagh](location)
+- [new delhi](location)
+- [new bombay](location)
+- [mumbai](location)
+- [delhi](location)
+- [mulshi](location)
+- [mangalore](location)
+- [Noida Sector 16](location)
+- [Noida Sector 18](location)
+- [indore](location)
+- [andheri](location)
+- [bangalore](location)
+- [mangalore](location)
+- [italian](cuisine)
+- [chinese](cuisine)
+- [thai](cuisine)
+- [Maharashtrian](cuisine)
+- [BBQ](cuisine)
+- [punjabi](cuisine)
+- [Mangalorean](cuisine)
+- [Moroccan](cuisine)
+- [french](cuisine)
+- [Indonesian](cuisine)
+- [cuban](cuisine)
+- [soul food](cuisine)
+- [healthy food](cuisine)
+- [street food](cuisine)
+- [armenian](cuisine)
+- [jewish](cuisine)
+- [european](cuisine)
+- [south indian](cuisine)
+- i will prefer to eat [chinese](cuisine) food
+- i would love to eat [italian](cuisine) food
+- i will prefer [punjabi](cuisine) food
+- i want to eat [italian](cuisine) food
+- [chinese](cuisine) please
+- [malvani](cuisine) please
+- i would love to eat [pizza](cuisine:italian)
+- i would like to eat [afghan](cuisine) meal
+- i would like to eat [fast food](cuisine)
+- i will eat [gujarati](cuisine) meal
+- get me some [indian](cuisine) food
+- get me some  [biryani](cuisine)
+- get me some [coffee](cuisine)
+- get me some [raw meats](cuisine)
+- get me some  [american food](cuisine)
+- get me some [british](cuisine) food
+- get me some  [bbq](cuisine)
+- get me some [mongolian](cuisine) food
+- get me some [ice cream](cuisine)
+- get me some [beverages](cuisine)
+- [modern indian](cuisine)
+- [north indian](cuisine)
+- [Lebanese](cuisine)
+- [Fusion](cuisine)
+- [Coffee and Tea](cuisine)
+- [Caribbean](cuisine)
+- [cajuan](cuisine)
+- [Polish](cuisine)
+- [Indonesian](cuisine)
+- [haraynvi](cuisine)
+- get me some [kebab](cuisine)
+- get me some [continental](cuisine) food
+- i would like to eat [street food](cuisine)
+- i would like to eat [burmese](cuisine) food
+- i would like to eat [odia](cuisine) food
+- i would prefer eating [bengali](cuisine) food
+- i would like to eat [rolls](cuisine)
+- i would like to eat [bakery](cuisine)
+- i would like to eat [bengali](cuisine) food
+- get me some [bengali](cuisine) food
+- get me some [vietnamese](cuisine) food
+- i would love to eat [momos](cuisine)
+- get me some [korean](cuisine) food
+- I am fine with anything
+- I am ok with anything
+- I don't have any preferences for cuisines
+- anything would work
+- anything would be fine
+- I am fine with anything
+- some where near [gymkhana](location)
+- somewhere near [wakad](location)
+- [Thane](location:thane)
+- [jaipur](location)
+- some where near [hijnewadi](location)
+- show me some [indian](cuisine) restaurants near [pune](location)
+- [nearby](user_location)
+
+## intent:locationUnknown
+- i dont know about my location
+- i am not sure of my location
+- i dont know
+- i am new here
+- i dont know what exactly this place is
+- can you help me with location i am new here
+- i dont know the location
+- i am not sure of my location yet
+- i am not sure
+- i am not sure about it
+- i am not sure actually
+- actually i am new here so i dont know location
+- i am not sure about my location
+- actually i really dont know i am new here
+- actually i really don't know please help withut location
+- i am new here i dont know location yet
+- i really dont know
+- i dont know my location
+- dont know the location
+- no idea i am new here
+- i dont know the location yet
+- i am not sure about location
+- somewhere near me
+
+## intent:searchBestRestaurants
+- show me best restaurants [nearby](user_location)
+- show me best restaurants [near me](user_location)
+- show me best restaurants near [pune](location)
+- show me best restaurants near [khar road](location)
+- show me best restaurants near [wakad](location)
+- show me best restaurants near [hinjewadi](location)
+- show me top rated restaurants [near me](user_location)
+- show me top rated restaurants near [ambernath](user_location)
+- show me top rated restaurants near [andheri](user_location)
+- show me top rated restaurants near [shivaji nagar](user_location)
+- show me some best restaurants [near me](user_location)
+- show me some top rated restaurants [near me](user_location)
+- show me some top rated restaurants [near by](user_location)
+- can you show me some best restaurants
+- show me top rated restaurants [nearby](user_location)
+- show me top rated restaurants near [mumbai](location)
+
+## intent:searchRestaurant
+- I am looking for a restaurant.
+- looking for some restaurants
+- i am feeling hungry
+- i am hungry please get me some restaurants
+- please help me find some restaurants
+- need food
+- searching for restaurants
+- I want to eat something please tell me some location [near by](user_location)
+- I want to eat something please tell me some location [nearby](user_location)
+- I want to eat something please suggest me some restaurants [nearby](user_location)
+- I want to eat something please suggest me some restaurants [nearby](user_location)
+- suggest me some good restaurants [nearby](user_location)
+- suggest me some good restaurants [near me](user_location)
+- suggest me some good restaurants [near by](user_location)
+- please get me some restaurants [near me](user_location)
+- can you show me the restaurant [near me](user_location)
+- can you show me the restaurant in [my](user_location) location
+- show me restaurants [nearby](user_location)
+- show me restaurants [near by](user_location)
+- i am feeling hungry show me some restaurant [near me](user_location)
+- i am feeling hungry show me some restaurant [nearby](user_location)
+- i am feeling hungry show me some restaurant [near by](user_location)
+- are there any restaurants [nearby](user_location)
+- are there any restaurants [near by](user_location)
+- get me the restaurants near to [me](user_location)
+- get me the restaurants [nearby](user_location)
+- tell me some food points [near to me](user_location)
+- show me some food points [near to me](user_location)
+- suggest me some food points [near to me](user_location)
+- i am looking to eat [Raw Meats](cuisine)
+- i am looking to eat [pizza](cuisine)
+- i am looking to eat [dosa](cuisine)
+- i am looking to eat [rotis](cuisine)
+- i am looking to eat [North Indian](cuisine)
+- i am looking to eat [South Indian](cuisine)
+- i am looking to eat [Biryani](cuisine)
+- i am looking to eat [pav bhaaji](cuisine)
+- i am looking to eat [Gujarati](cuisine) dish
+- i am looking to eat [malayali](cuisine) dish
+- i am looking to eat [tamil](cuisine) dish
+- i am looking to eat [Modern Indian](cuisine) dish
+- i am looking to eat [North Eastern](cuisine) dish
+- i am looking to eat [Mangalorean](cuisine) dish
+- i would love to eat [Kebab](cuisine)
+- i would love to eat [Middle Eastern](cuisine)
+- i would love to eat [Italian](cuisine)
+- i would love to eat [Maharashtrian](cuisine)
+- i would like to eat [italian](cuisine)
+- i am looking to eat some [south indian](cuisine) food
+- I am looking for restaurants that serves [Street Food](cuisine)
+- I am looking for restaurants that serves [Healthy Food](cuisine)
+- I am looking for restaurants that serves [misal pav](cuisine)
+- I am looking for restaurants that serves [misal pav](cuisine) & [vada pav](cuisine)
+- I am looking for restaurants that serves [Street Food](cuisine)  & [Healthy Food](cuisine)
+- I am looking for restaurants that serves [vada pav](cuisine)
+- I am looking for restaurants that serves [Drinks](cuisine)
+- I am looking for restaurants that serves [Drinks](cuisine) & [Ice Cream](cuisine)
+- I am looking for restaurants that serves [Ice Cream](cuisine)
+- I am looking for restaurants that serves [Wraps](cuisine)
+- I am looking for restaurants that serves [maharashtrian](cuisine) food
+- I am looking for restaurants that serves [maharashtrian](cuisine) food in [chennai](location)
+- I am looking for restaurants that serves [Seafood](cuisine) food in [mumbai](location)
+- I am looking for restaurants that serves [BBQ](cuisine) food in [pune](location)
+- I am looking for restaurants that serves [BBQ](cuisine) food in [wakad](location)
+- I am looking for restaurants that serves [maharashtrian](cuisine) food in [delhi](location)
+- I am looking for restaurants that serves [south indian](cuisine) food in [new delhi](location)
+- I am looking for restaurants that serves [Japanese](cuisine) food
+- I am looking for restaurants that serves [south indian](cuisine) food
+- I am looking for restaurants that serves [North Eastern](cuisine) food near [new delhi](location)
+- I am looking for restaurants that serves [Indian](cuisine) food near [hyderabad](location)
+- I am looking for restaurants that serves [Swedish](cuisine) food near [navi mumbai](location)
+- I am looking for restaurants that serves [German](cuisine) food near [santacruz](location)
+- I am looking for restaurants that serves [North Eastern](cuisine) food near [thane](location)
+- I am looking for restaurants that serves [tamil](cuisine) food
+- I am looking for restaurants that serves [chinese](cuisine) food
+- I am looking for restaurants that serves [Malaysian](cuisine) food
+- I am looking for restaurants that serves [Momos](cuisine)
+- are there any restaurants [nearby](user_location) that serves some [maharashtrian](cuisine) food
+- are there any restaurants [nearby](user_location) that serves some [south indian](cuisine) food
+- I am searching for some [bengali](cuisine) food
+- I am searching for some [Brazilian](cuisine) food
+- I am searching for some [Coffee and Tea](cuisine)
+- I am searching for some [Modern Indian](cuisine) food
+- I am searching for some [Mongolian](cuisine) food
+- I am searching for some [Chettinad](cuisine) food
+- I am searching for some [Hyderabadi](cuisine) food near [thane](location)
+- I am searching for some [Asian](cuisine) food near [thrissur](location)
+- I am searching for some [Asian](cuisine) food near [berlin](location)
+- I am searching for some [Chettinad](cuisine) food near [kanpur](location)
+- I am searching for some [Middle Eastern](cuisine) food near [kanjur marg](location)
+- I am searching for some [Mediterranean](cuisine) food near [khar road](location)
+- I am searching for some [Chettinad](cuisine) food near [mankhurd](location)
+- I want to eat [bengali](cuisine) food please tell me some location [near by](user_location)
+- I want to eat [Fast Food](cuisine) please tell me some location [near by](user_location)
+- I want to eat [Arabian](cuisine) food please tell me some location [near by](user_location)
+- I want to eat [Fast Food](cuisine) please tell me some location [near by](user_location)
+- I want to eat [kerala](cuisine) food please tell me some locations near [nalla sopara](location)
+- I want to eat [Asian](cuisine) food please tell me some locations near [ram mandir](location)
+- can you show me some [indian](cuisine) restaurants [nearby](user_location)
+- can you show me some [chinese](cuisine) restaurants [nearby](user_location)
+- show me some [south indian](cuisine) restaurants [nearby](user_location)
+- show me some [italian](cuisine) restaurants [near by](user_location)
+- show me some restaurants near [lucknow](location)
+- show me some restaurants near [berlin](location)
+- show me some [maharashtrian](cuisine) restaurants
+- show me [chinese](cuisine) restaurants near [kalyan](location)
+
+## intent:show_more
+- show more restaurants
+- show more 
+- show some more restaurants
+- next restaurants
+- more restaurants
+
+## intent:feedback
+- feed
+- feed
+- feedback
+- feedback
+
+## intent:name_entity
+- my name is [Bhumika](name)
+- my name is [Sunil](name)
+- my name is [Raju](name)
+- myself [steve](name)
+- [nandan](name)
+- [sita](name)
+
+## intent:email_entity
+- my mail id is [abc@gmail.com](email)
+- my mail id is [xyz@gmail.com](email)
+- my mail id is [pqr@gmail.com](email)
+- [lmn@gmail.com](email)
+- [lmn@yahoo.com](email)
+
+## intent:fback_entity
+- [1](fback)
+- [2](fback)
+- [3](fback)
+- [4](fback)
+- [5](fback)
+- [one](fback)
+- [two](fback)
+- [three](fback)
+- [four](fback)
+- [five](fback)
+
+## intent:thankyou
+- ok, thanks
+- you are welcome
+- thankyou
+
+## intent:goodbye
+- bye
+- goodbye
+- see you
+## lookup:cuisine
+data/cuisines.txt   
