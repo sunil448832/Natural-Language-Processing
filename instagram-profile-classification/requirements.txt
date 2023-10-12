@@ -1,0 +1,10 @@
+instaloader
+umap-learn==0.3.10
+hdbscan
+streamlit
+scikit-learn
+gensim
+statistics
+flask
+gdown
+nltk
