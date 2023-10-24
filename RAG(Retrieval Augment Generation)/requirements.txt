@@ -1,0 +1,7 @@
+pypdf
+docx2txt
+faiss-cpu
+git+https://github.com/huggingface/optimum.git
+git+https://github.com/huggingface/transformers.git
+accelerate
+bitsandbytes
