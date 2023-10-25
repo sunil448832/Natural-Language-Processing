@@ -6,7 +6,7 @@ import argparse
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("--data_path", default='data/71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf',help="Input file name")
+    parser.add_argument("--data_path", default='data/KnowledgeDocument(pan_card_services).txt',help="Input file name")
     parser.add_argument("--vector_database_path", default='vector_db',help="Vector database which store embeddings vector")
     args = parser.parse_args()
 

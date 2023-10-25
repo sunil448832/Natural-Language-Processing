@@ -11,7 +11,7 @@ pip install -r requirements.txt
 To get started with RAG, use the following command to ingest your data:
 
 ```bash
-python ingest.py --data_path 'data/71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf'\
+python ingest.py --data_path 'data/KnowledgeDocument(pan_card_services).txt'\
                   --vector_database_path 'vector_db'
 ```
 
