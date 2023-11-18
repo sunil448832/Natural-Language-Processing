@@ -2,7 +2,8 @@
 To set up the required dependencies, use the following command:
 
 `pip install -r requirements.txt`
-
+## Update OPENAI_API_KEY
+  Update key in .env file.
 ## Running the Application
 1. Start the backend server using the following command:
 `python backend.py`
