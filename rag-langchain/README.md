@@ -1,0 +1,18 @@
+## Installation
+To set up the required dependencies, use the following command:
+
+`pip install -r requirements.txt`
+
+## Running the Application
+1. Start the backend server using the following command:
+`python backend.py`
+2. Launch the frontend server with the following command:
+`streamlit run frontend.py`
+this will open a user interface tab.
+
+## Paste Url in UI
+In the user interface, first upload documents and write questions.
+## Upload Document
+![Upload Document](data/output_sample_1.png)
+## QA Sample
+![QA Samples](data/output_sample_2.png)
