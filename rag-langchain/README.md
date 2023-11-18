@@ -10,7 +10,7 @@ To set up the required dependencies, use the following command:
 `streamlit run frontend.py`
 this will open a user interface tab.
 
-## Past Document and write questions
+## Upload Document and write questions
 In the user interface, first upload documents and write questions.
 ## Upload Document
 ![Upload Document](https://github.com/sunil448832/Natural-Language-Processing/blob/master/rag-langchain/data/output_sample_1.png?raw=true)
