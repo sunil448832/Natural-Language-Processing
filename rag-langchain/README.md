@@ -13,6 +13,6 @@ this will open a user interface tab.
 ## Upload Document and write questions
 In the user interface, first upload documents and write questions.
 ## Upload Document
-![Upload Document](https://github.com/sunil448832/Natural-Language-Processing/blob/master/rag-langchain/data/output_sample_1.png)
+![alt text](https://github.com/sunil448832/Natural-Language-Processing/blob/master/rag-langchain/data/output_sample_1.png?raw=true)
 ## QA Sample
 ![QA Samples](https://github.com/sunil448832/Natural-Language-Processing/blob/master/rag-langchain/data/output_sample_2.png?raw=true)
